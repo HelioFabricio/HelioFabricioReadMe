@@ -1,11 +1,11 @@
 # 👋 Hi! Welcome to my profile.
 
-## My name is Helio Fabricio and I'm studying to become a Back End Developer
+## My name is Helio Fabricio and I'm studying to become a Architect
 
 Some information about me:
 
-- 🌱 I'm currently learning: Spring | MySql | JavaScript
-- 📫 My Socials: [LinkedIn](https://www.linkedin.com/in/heliofabricio) and github :p
+- 🌱 I'm currently learning: Microsservices | Advanced SpringBoot | JAVA | REACT | ANGULAR
+- 📫 My Socials: [LinkedIn](https://www.linkedin.com/in/heliofabricio) 
 - ⚡ Curiosities: I really like to exercise and explore new technologies.
 
 
